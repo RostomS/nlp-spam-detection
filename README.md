@@ -17,6 +17,16 @@ L’approche repose sur un prétraitement textuel (tokenisation, nettoyage) suiv
 
 ---
 
+## ⚙️ Installation
+1) Cloner le repo :
+   git clone https://github.com/RostomS/nlp-spam-detection && cd nlp-spam-detection
+2) Installer les dépendances :
+   pip install -r requirements.txt
+3) Ouvrir Jupyter et lancer :
+   notebook/SpamDetec.ipynb
+
+---
+
 ## 👤 Auteur
 Projet réalisé par Rostom Samar
 🔗 github.com/rostomsamar
